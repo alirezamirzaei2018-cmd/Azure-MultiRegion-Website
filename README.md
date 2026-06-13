@@ -1,10 +1,5 @@
-# MST400 – Project 1
+# Multi-Region Website
 # Azure Multi-Region Website Deployment with Global Load Distribution
-
-**Student:** Alireza  
-**Course:** MST400 – Cloud Administration  
-**Semester:** Summer 2026  
-**Institution:** Seneca Polytechnic  
 
 ---
 
